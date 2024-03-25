@@ -1,0 +1,25 @@
+.col-12 {
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.col-12 i {
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+.bi-emoji-laughing-fill {
+    color: green;
+}                 
+
+.bi-emoji-neutral-fill {
+    color: yellow;
+}
+
+.bi-emoji-angry-fill {
+    color: red
+}
